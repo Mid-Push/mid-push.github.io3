@@ -44,13 +44,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - ICML Travel Award
+        - National Graduate Scholarship, top 2%
+        - First Prize Graduate Scholarship
+    - year: 2017
       items: 
-        - Max Planck Medal
+        - Outstanding Graduate Scholarship
+        - First Prize Graduate Scholarship
+        - KDD CUP Highway Tollgates Traffic Flow Prediction, top 1%, 2017
 
 
     
