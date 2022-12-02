@@ -2,96 +2,73 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Shaoan Xie
+   
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Carnegie Mellon University
+      year: 2019-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Logic, Computation and Methodology.
+       
+    - title: MS
+      institution: Sun Yat-sen (Zhongshan) University
+      year: 2016-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Computer Science
+        
+    - title: BS
+      institution: Sun Yat-sen (Zhongshan) University
+      year: 2012-2016
+      description:
+        - Computer Science
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Adobe Research Team, US
+      year: 2022 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - We propose a novel diffusion-based image inpainting model. On inpainting task, we beat DALLE-2 and Stable Diffusion by a large margin.
+        - We write a paper and file a patent about the method
+        
+        
+    - title: Visiting Student
+      institution: The Chinese University of Hong Kong
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - We propose a novel cross project defection prediction method.
+        - Hosted by <a href='https://www.cse.cuhk.edu.hk/lyu/'>Prof. Michael R. Lyu </a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+   
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - National Scholarship, top 2% 
+        - First Prize Graduate Scholarship
+        - ICML Travel Award
+     - year: 2017
       items: 
-        - Max Planck Medal
+        - First Prize Graduate Scholarship
+        - Outstanding Graduate Scholarship
+        - KDD CUP Highway Tollgate Traffic Flow Prediction, top 1%
+        
 
-- title: Academic Interests
+- title: Reviewer
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Conferences: Neurips, ICML, UAI, AISTATS, ICLR, CVPR
+    - title: Journals: TPAMI, AI.
+     
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
