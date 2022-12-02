@@ -43,13 +43,21 @@
 
 
 
-        
-        
-- title: Reviewer
-  type: nested_list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - title: Conferences: Neurips, ICML, UAI, AISTATS, ICLR, CVPR
-    - title: Journals: TPAMI, AI.
+    - year: 2018
+      items: 
+        - National Scholarship
+        - First Prize Graduate Scholarship
+        - ICML Travel Award
+     - year: 2017
+      items: 
+        - First Prize Graduate Scholarship
+        - Outstanding Graduate Scholarship
+        - KDD CUP Highway Tollgate Traffic Flow Prediction     
+        
+
     
 
      
