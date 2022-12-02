@@ -26,7 +26,50 @@
       description:
         - Computer Science
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Adobe Research Team, US
+      year: 2022 
+      description:
+        - We propose a novel diffusion-based image inpainting model. On inpainting task, we beat DALLE-2 and Stable Diffusion by a large margin.
+        - We write a paper and file a patent about the method
+        - Hosted by <a href='https://zzutk.github.io//'>Zhifei Zhang </a> , <a href='https://research.adobe.com/person/zhe-lin/'>Zhe Lin </a> and <a href='https://www.tobiashinz.com/'>Tobias Hinz </a>
+        
+        
+    - title: Visiting Student
+      institution: The Chinese University of Hong Kong
+      year: 2017
+      description:
+        - We propose a novel cross project defection prediction method.
+        - Hosted by <a href='https://www.cse.cuhk.edu.hk/lyu/'>Prof. Michael R. Lyu </a>
 
+    
+
+   
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018
+      items: 
+        - National Scholarship, top 2% 
+        - First Prize Graduate Scholarship
+        - ICML Travel Award
+     - year: 2017
+      items: 
+        - First Prize Graduate Scholarship
+        - Outstanding Graduate Scholarship
+        - KDD CUP Highway Tollgate Traffic Flow Prediction, top 1%
+        
+
+- title: Reviewer
+  type: nested_list
+  contents:
+    - title: Conferences: Neurips, ICML, UAI, AISTATS, ICLR, CVPR
+    - title: Journals: TPAMI, AI.
+     
 
 
 
