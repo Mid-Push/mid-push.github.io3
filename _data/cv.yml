@@ -57,12 +57,10 @@
 
 
     
-- title: Service
+- title: Reviewer
   type: list
   contents:
-     items: 
-       - Neurips, ICML, ICLR, UAI, AISTATS, CVPR.
-       - TPAMI, AI.
+       - Neurips, ICML, ICLR, UAI, AISTATS, CVPR, TPAMI, AI.
    
 
      
