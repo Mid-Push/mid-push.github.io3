@@ -29,7 +29,7 @@
       institution: Adobe Research Team, US
       year: 2022 
       description:
-        - We propose a novel diffusion-based image inpainting model and it beats DALLE-2 and Stable Diffusion..
+        - We propose a novel diffusion-based image inpainting model and it beats <a href="https://openai.com/dall-e-2/">DALLE-2</a> and <a href="https://stability.ai/blog/stable-diffusion-public-release">Stable Diffusion</a>.
         - We write a paper and file a patent about the method
         - Hosted by <a href='https://zzutk.github.io//'>Zhifei Zhang </a> , <a href='https://research.adobe.com/person/zhe-lin/'>Zhe Lin </a> and <a href='https://www.tobiashinz.com/'>Tobias Hinz </a>
         
@@ -58,12 +58,11 @@
 
     
 - title: Service
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items: 
-        - Neurips, ICML, ICLR, UAI, AISTATS, CVPR.
-        - TPAMI, AI.
+     items: 
+       - Neurips, ICML, ICLR, UAI, AISTATS, CVPR.
+       - TPAMI, AI.
    
 
      
