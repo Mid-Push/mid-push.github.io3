@@ -18,6 +18,8 @@ Hi! I'm a fourth year Phd student at <a href='https://www.cmu.edu/'> Carnegie Me
 
 My research interests lie in general causality and machine learning. Currently, I focus on transfer learning from causal perspective. In particular, I have been working on <b>image-to-image translation, paired image synthesis and domain adaptation </b>for several years. I also have a strong passion for generative models, e.g., <b>GAN</b>, <b>normalizing flow</b> and <b>diffusion model</b>.
 
+Feel free to contact me if you find any research interests that we might share. I am always open to potential collaborations.
+
 <u>Email</u>: shaoan at cmu.edu
 
 
