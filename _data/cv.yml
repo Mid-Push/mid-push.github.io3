@@ -42,15 +42,9 @@
         - Hosted by <a href='https://www.cse.cuhk.edu.hk/lyu/'>Prof. Michael R. Lyu </a>
 
 
-
-- title: Reviewer
-  type: nested_list
+- title: Honors and Awards
+  type: time_table
   contents:
-    - title: Conferences: Neurips, ICML, UAI, AISTATS, ICLR, CVPR
-    - title: Journals: TPAMI, AI.
-    
-
+    - year: 2018
      
-
-
 
