@@ -41,22 +41,13 @@
         - We propose a novel cross project defection prediction method.
         - Hosted by <a href='https://www.cse.cuhk.edu.hk/lyu/'>Prof. Michael R. Lyu </a>
 
-- title: Honors and Awards
-  type: time_table
+
+
+- title: Reviewer
+  type: nested_list
   contents:
-    - year: 2018
-      items: 
-        - National Scholarship, top 2% 
-        - First Prize Graduate Scholarship
-        - ICML Travel Award
-     - year: 2017
-      items: 
-        - First Prize Graduate Scholarship
-        - Outstanding Graduate Scholarship
-        - KDD CUP Highway Tollgate Traffic Flow Prediction, top 1%
-        
-
-
+    - title: Conferences: Neurips, ICML, UAI, AISTATS, ICLR, CVPR
+    - title: Journals: TPAMI, AI.
     
 
      
