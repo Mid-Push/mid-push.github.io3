@@ -63,11 +63,11 @@
             {%- if author_is_self -%}
               <em>{{author.first}} {{author.last}}</em>
             {%- else -%}
-              {%- if coauthor_url -%}
-                <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
-              {%- else -%}
-                {{author.first}} {{author.last}}
-              {%- endif -%}
+              {% if coauthor_url %}
+                  and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
+                  {% else %}
+                  and {{author.first}} {{author.last}}
+                  {% endif %}
             {%- endif -%}
           {%- endfor -%}
           {%- assign more_authors = author_array_size | minus: author_array_limit -%}
